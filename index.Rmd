@@ -16,6 +16,8 @@ description: "Course book for BIO 316: R programming for Biologists at Stonehill
 
 one
 
+another
+
 
 
 ```{r include=FALSE}
