@@ -12,7 +12,7 @@ permalink:        pretty
 title:            R Programming for Biologists
 description:      'Teaching the tools to get computers to do cool science'
 url:              https://r3bio.devbioinformatics.org
-baseurl:          
+baseurl:          /
 email:            rharbert@stonehill.edu
 feedbackurl:      docs.google.com/forms/d/1y35uJukuZ9MPKQWWqw0Y8R4VOiaOtFJezDY_t_kJfTs/
 author:
