@@ -9,7 +9,7 @@ kramdown:
 permalink:        pretty
 
 # Setup
-title:            Data Carpentry for Biologists
+title:            R Programming for Biologists
 description:      'Teaching the tools to get computers to do cool science'
 url:              https://developing-bioinformatics.github.io/R4bio/
 baseurl:          /R4bio
