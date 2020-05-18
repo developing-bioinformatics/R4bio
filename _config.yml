@@ -11,14 +11,14 @@ permalink:        pretty
 # Setup
 title:            Data Carpentry for Biologists
 description:      'Teaching the tools to get computers to do cool science'
-url:              http://www.datacarpentry.org/semester-biology
-baseurl:          /semester-biology
-email:            datacarpentrysemester@weecology.org
+url:              https://developing-bioinformatics.github.io/R4bio/
+baseurl:          /R4bio
+email:            rharbert@stonehill.edu
 feedbackurl:      docs.google.com/forms/d/1y35uJukuZ9MPKQWWqw0Y8R4VOiaOtFJezDY_t_kJfTs/
 author:
-  name:           'Ethan White'
-  url:            https://twitter.com/ethanwhite
+  name:           'Rob Harbert'
+  url:            https://twitter.com/robharbert
 
 github:
-  repo:           https://github.com/datacarpentry/semester-biology
+  repo:           https://github.com/developing-bioinformatics/R4bio
   #               Be sure the 'Issues' feature is activated in 'Settings'
