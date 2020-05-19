@@ -3,7 +3,7 @@ layout: page
 title: Syllabus
 catalog: BIO 316
 credits: 3
-semester: Sunmmer 2020
+semester: Summer 2020
 professor: Dr. Robert Harbert (he/him)
 office: Zoom 
 email: rharbert@stonehill.edu
@@ -15,6 +15,10 @@ office_hours_location: Zoom
 TA: NA
 TA_email: NA
 ---
+
+# eSyllabus
+
+**Official course syllabus posted on eLearn**
 
 ## Course
 
@@ -52,8 +56,7 @@ Times: {{ page.office_hours }}
 
 Location: {{ page.office_hours_location }}
 
-Or by appointment. *Note: scheduling alternate appointments can be made by email or through https://calendly.com/rharbert/scheduling*
-
+Or by appointment. *Note: scheduling alternate appointments can be made by email or through Calendly link on eLearn*
 
 ### Teaching Assistant
 
