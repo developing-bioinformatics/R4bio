@@ -3,13 +3,12 @@ layout: page
 title: Assignment Submission & Checklist
 ---
 
-- All assignments should be submitted through [Canvas](http://ufl.instructure.com/)
+- All assignments should be submitted through [eLearn](https://elearn.stonehill.edu/s)
 
-- What files to submit: 
-    - **Week 1** - one text form, one .xlsx file
-    - **Weeks 2-9** - a zip file containing one .R file, one .Rproj file, & any data files needed to run it
-    - **Week 10** - a link to a GitHub repository
-    - **Weeks 11-13** - either a zip file containing one .R file & any data files needed to run it or a link to a GitHub repository containing the .R file and any data files needed to run it
+- What files to submit: (may be ammended as needed)
+    - **Section 1-8** - a zip file containing one .R file & any data files needed to run it
+    - **Section 9** - a link to a GitHub repository
+    - **Section 10-12** - either a zip file containing one .R file & any data files needed to run it or a link to a GitHub repository containing the .R file and any data files needed to run it
 
 
 # Code Checklist
