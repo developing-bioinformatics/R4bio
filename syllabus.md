@@ -7,7 +7,7 @@ semester: Summer 2020
 professor: Dr. Robert Harbert (he/him)
 office: Zoom 
 email: rharbert@stonehill.edu
-phone: 508-565-1248
+phone: NA
 schedule: Work at your own pace
 location: Online
 office_hours: TBA
@@ -174,7 +174,7 @@ one.
 
 ## Grading Policies
 
-Grading for this course is based on 13 equally weighted assignments.
+Grading for this course is based on weekly assignments and a final project.
 
 Exercises in assignments will be graded as follows:
 
