@@ -18,17 +18,17 @@ to the mean annual temperature and the mean annaual precipitation.
    loading packages using `message = FALSE`.
 4. Add a header related to downloading and importing the data.
 5. Add a text section briefly describing the two datasets you are going to use.
-6a. Download and place the Breeding Bird Survey data from the course eLearn 
-    page into the   directory where you are saving this Rmarkdown file. Unzip 
-    the folder and look for the files: 
-6b. OR: Add a code chunk to download the Breeding Bird Survey data using the
-   `rdataretriever` package. Instructions for installing this package and the
-   associated Python package are available on the
-   [Data Retriever website](https://www.data-retriever.org/). It will take a
-   long time to download and convert this data into a set of useable CSV files
-   (~30 minutes), so add a conditional statement that checks to see if the
-   necessary files have already been created and only install they data if they
-   have not. Don't show the output for this chunk.
+6. Download and place the Breeding Bird Survey data from the course eLearn page
+   into the directory where you are saving this Rmarkdown file. Unzip the folder 
+   and look for the files: 
+   
+   OR: Add a  code chunk to download the Breeding Bird Survey 
+   data using the `rdataretriever` package. Instructions for installing this package 
+   and the associated Python package are available on the [Data Retriever website](https://www.data-retriever.org/). It will take a long time to download 
+   and convert this data into a set of useable CSV files (~30 minutes), so add 
+   a conditional statement that checks to see if the necessary files have already 
+   been created and only install they data if they have not. Don't show the output 
+   for this chunk.
 7. Add a code chunk to load the species, counts, and routes tables into R and
    display the top few rows of each table.
 8. Make a map of the locations of all of the Breeding Bird Survey routes,
