@@ -29,8 +29,7 @@ to the mean annual temperature and the mean annaual precipitation.
    a conditional statement that checks to see if the necessary files have already 
    been created and only install they data if they have not. Don't show the output 
    for this chunk.
-7. Add a code chunk to load the species, counts, and routes tables into R and
-   display the top few rows of each table.
+7. Add a code chunk to load the routes tables into R and display the top few rows. 
 8. Make a map of the locations of all of the Breeding Bird Survey routes,
    including an outline the North America landmass. Add a header above this map
    describing what it shows. You can get a world map useing
