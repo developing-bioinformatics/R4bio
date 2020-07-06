@@ -20,7 +20,7 @@ to the mean annual temperature and the mean annaual precipitation.
 5. Add a text section briefly describing the two datasets you are going to use.
 6. Download and place the Breeding Bird Survey data from the course eLearn page
    into the directory where you are saving this Rmarkdown file. Unzip the folder 
-   and look for the files: 
+   and look for the files: routes.zip (unzip this) --> routes.csv
    
    OR: Add a  code chunk to download the Breeding Bird Survey 
    data using the `rdataretriever` package. Instructions for installing this package 
@@ -43,23 +43,10 @@ to the mean annual temperature and the mean annaual precipitation.
    scale_y_continuous(limits = c(min(routes$latitude), max(routes$latitude)))
    ```
 
-9. Use the `getData` function from the `raster` package to obtain the bioclim
-   data (`getData('worldclim', var = 'bio', res = 10)`) and `extract` the values
-   for each route. Convert resulting matrix into a data frame and `select` just
-   the mean annual temperature (bio1) and the mean annual precipitation (bio1).
-   Use `cbind` to combine these two predictor columns with the routes table.
-10. Determine the species richness at each route in 2015. To get unique routes
-   you will need to group by by the `statenum` and `route` columns. Join this
-   data with the predictor data you obtained in (7).Display the new table data.
-11. Make two graphs, one each showing the relationship between `bio1` and
-   `richness` and `bio12` and `richness`. Include the raw data points and a
-   smooth line through them. (*optional*) Try doing this with a function if you
-   want an extra challenge.
-12. Write a brief conclusions section providing your interpretation of the
-    results.
-13. Return to the data section of your document and add citations for both
-    datasets. You will need to create a `.bib` file to hold your bibtex
+9. Write a brief figure legend about what the map figure shows.
+10. Return to the data section of your document and add citations for the
+    dataset. You will need to create a `.bib` file to hold your bibtex
     citations. You can obtain bibtex for the citations by searching Google
-    Scholar for "Breeding Bird Survey" and "Worldclim", clicking on the `"`
+    Scholar for "Breeding Bird Survey", clicking on the `"`
     icon, and selecting `bibtex`. You should also add a `References` header at
     the bottom of your document since the references will appear at the end.
