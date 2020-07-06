@@ -18,7 +18,9 @@ to the mean annual temperature and the mean annaual precipitation.
    loading packages using `message = FALSE`.
 4. Add a header related to downloading and importing the data.
 5. Add a text section briefly describing the two datasets you are going to use.
-6. Add a code chunk to download the Breeding Bird Survey data using the
+6a. Add a code chunk to read the Breeding Bird Survey data from   
+    [routes.csv](https://raw.githubusercontent.com/developing-bioinformatics/R4bio/master/data/routes.csv)
+6b. OR Add a code chunk to download the Breeding Bird Survey data using the
    `rdataretriever` package. Instructions for installing this package and the
    associated Python package are available on the
    [Data Retriever website](https://www.data-retriever.org/). It will take a
