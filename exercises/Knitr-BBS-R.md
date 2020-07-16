@@ -17,7 +17,7 @@ to the mean annual temperature and the mean annaual precipitation.
 3. Add a code chunk that loads the required packages. Hide the output from
    loading packages using `message = FALSE`.
 4. Add a header related to downloading and importing the data.
-5. Add a text section briefly describing the two datasets you are going to use.
+5. Add a text section briefly describing the dataset you are going to use.
 6. Download and unzip the routes data from the Breeding Bird Survey from the FTP site: [ftp://ftpext.usgs.gov/pub/er/md/laurel/BBS/DataFiles/routes.zip](ftp://ftpext.usgs.gov/pub/er/md/laurel/BBS/DataFiles/routes.zip)
 
 ```
@@ -29,7 +29,7 @@ routes = read.csv('routes.csv')
 7. Add a code chunk to load the routes tables into R and display the top few rows. 
 8. Make a map of the locations of all of the Breeding Bird Survey routes,
    including an outline the North America landmass. Add a header above this map
-   describing what it shows. You can get a world map useing
+   describing what it shows. You can get a world map using
    `usmap = map_data("world")`, which you can then plot using `geom_polygon`.
    To only show this data in the region of the Breeding Bird Survey routes add
    the following to you `ggplot` command:
