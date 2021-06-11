@@ -9,7 +9,7 @@ Larger organisms have larger offspring. We want to explore the form of this
 relationship in mammals.
 
 Download some
-[mammal life history data](http://esapubs.org/archive/ecol/E084/093/Mammal_lifehistories_v2.txt)
+[mammal life history data](https://ndownloader.figshare.com/files/5593343)
 from the web.  You can do this either directly in the program using `read.csv()`
 or download the file to your computer using your browser, save it in the `data`
 subdirectory, and import it from there. It is tab delimited so you'll want to

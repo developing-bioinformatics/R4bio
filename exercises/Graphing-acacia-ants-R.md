@@ -8,7 +8,7 @@ language: R
 An experiment in Kenya has been exploring the influence of large herbivores on plants.
 
 Download the data on [Acacia for the
-experiment](http://www.esapubs.org/archive/ecol/E095/064/ACACIA_DREPANOLOBIUM_SURVEY.txt)
+experiment](https://ndownloader.figshare.com/files/5629542)
 into a `data` subdirectory and read it into R using the following command:
 
 ```r
