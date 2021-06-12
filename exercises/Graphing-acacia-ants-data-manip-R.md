@@ -8,7 +8,7 @@ language: R
 An experiment in Kenya has been exploring the influence of large herbivores on plants.
 
 Download the data on [Trees for the
-experiment](http://www.esapubs.org/archive/ecol/E095/064/TREE_SURVEYS.txt)
+experiment](https://ndownloader.figshare.com/files/5629536)
 into a `data` subdirectory. There are a number of problematic entries in this data so use the `readr` package to import it:
 
 ```r
